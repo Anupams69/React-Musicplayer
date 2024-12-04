@@ -1,0 +1,261 @@
+.main1{
+
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 5px solid black; */
+    width:100%;
+    height:50px;
+    margin: -6px;
+
+    font-size: 30px;
+    margin-right: 5px;
+
+}
+
+
+ul{
+    
+
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    list-style: none;
+    
+}
+
+.img1{
+    margin-right: 50px;
+     
+}
+
+/* ?======= */
+.content2{
+    height:100px;
+    width:100%;
+    /* border:5px solid black; */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size: large;
+
+}
+.clr{
+    border:2px solid hsl(259, 63%, 59%);
+}
+.btn{
+
+    border:2px solid #7F56D9;
+}
+
+
+
+/* ?????? */
+
+.content3{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 5px solid black; */
+    width:100%;
+    height:300px
+}
+
+.logo{
+    margin-top: 145px;
+    display:flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    /* border: 5px solid black; */
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.big{
+    margin-top: 150px;
+    margin-left: 160px;
+}
+
+/* messy================================================== */
+.firstbox{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 5px solid black; */
+}
+
+ .secondbox{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 5px solid black; */
+
+
+ }
+.box1{
+
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 5px solid black; */
+}
+/* ???????????==================================messyover */
+
+.l4{
+   
+    
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+}
+
+/* text====================== */
+.text{
+       
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ .txtbtn{
+
+    border-radius: 15px;
+    color: #7F56D9;
+    font-size: larger;
+ }
+ /* =================== */
+
+ .pics{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .bigscreen{
+    border: 5px solid black;
+    border-radius: 10px;
+ }
+ .smallscreen{
+         
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-left: 50px;
+ }
+ /* ?======================================================================================== */
+ .flexy{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:400px
+ }
+
+ .plus{
+
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+ hr{
+    border:1px solid black;
+    width:35%
+ }
+ /* +++++++++++++++++++++++++++++++headings */
+ 
+
+.headings{
+
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.bt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn11{
+
+    height: 32px;
+    border-radius: 7px;
+    color: black;
+    font-size: large;
+}
+.btn12{
+
+    height: 32px;
+    border-radius: 7px;
+    background-color: #7F56D9;
+    color: white;
+    font-size: large;
+
+
+}
+
+/* ?lists=============================================== */
+
+.lists{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 05px;
+    padding: 10px;
+}
+
+/* +++++++++++++++++++++++++++++ */
+
+.last{
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* ++++++++++++++++++++++++++++++++++++ */
+
+h4{
+    color: #7F56D9;
+}
+
+.complicated{
+
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+/* ???++++++++++++++++++++ */
+
+.fiveteen{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.veiw{
+      
+    background-color: #7F56D9;
+    height: 45px;
+    color: white;
+    border-radius: 5px;
+    width:120px;
+     /* border:5px solid black */
+    
+}

@@ -1,0 +1,140 @@
+  /* Musicapp */
+body{
+    /* background-color:rgba(129, 7, 7, 0.701); */
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background: linear-gradient(rgb(31, 29, 29) blck, rgb(5, 5, 76),rgb(92, 24, 24)); */
+    background: linear-gradient(to left, rgb(119, 76, 76), rgb(169, 71, 71) 50%, rgb(105, 67, 67) 75%, rgb(56, 27, 27) 75%);
+
+    
+}
+img{
+    height: 320px;
+    width:300px;
+    border-radius: 50%;
+}
+
+#div1{
+      
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding: 20px;
+     background-color: rgb(157, 77, 77) 
+ } 
+
+#div2{
+    border:2px solid blue;
+    height: 600px;
+    width:300px;
+    font-size: 9px;
+    padding: 20px;
+    background-color: antiquewhite;
+
+    border-radius: 15px;
+
+     
+ } 
+
+.btnClass{
+     height: 75px;
+     width: 350px;
+     border-radius: 10px;
+     font-size: 30px;
+     font-weight: 200px;
+     font-style: italic;
+     margin-bottom: -30px;
+     background-color: black;
+     color: aliceblue;
+      font-style: normal;
+      font-weight: bolder;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+button{
+    width:100px;
+    height:50px;
+    font-size: 35px;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(0, 0, 19)
+}
+
+
+.mainContainer{
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 5px solid black;
+    margin-left: 190px;
+    border-radius: 70px;
+    background-color:rgb(40, 12, 12);
+    color: aliceblue;
+    flex-direction: column;
+    width:390px;
+    height: 700px;
+    margin-top: 90px;
+    /* margin-left: 65px; */
+    
+    
+
+}
+input{
+    color: bisque;
+    background-color: wheat;
+}    
+
+.jay{
+    font-size: 50px;
+    font-style: italic;
+}
+
+
+.search{
+    height: 60px;
+    width:580px;
+    font-size: 30px;
+    border: 8px solid black;
+    color: black;
+    font-style:italic;
+    font-weight: 200px;
+    text-shadow: 0cm;
+    /* font-family:'Courier New', Courier, monospace; */
+    
+}
+
+label{
+    height: 500px;
+    width:30px;
+    color:beige;
+    font-size: 70px;
+    margin-top:30px;
+}
+
+
+/* Music app======================================================= */
+
+
+
+
+
+
+
+
+
+
+
+
+

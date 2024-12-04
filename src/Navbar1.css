@@ -1,0 +1,17 @@
+nav{
+    padding: 20px;
+    background-color: rgb(219, 49, 26);
+    margin-bottom: 20px;
+}
+
+nav a{
+
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 25px;
+    margin-left: 100px;
+}
+nav .active{
+    text-decoration: underline;
+    /* color: black; */
+}
