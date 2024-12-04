@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a95e01b.css",
+    "main.js": "/static/js/main.a4dcbb3e.js",
+    "static/media/128-Besharam Rang - Pathaan 128 Kbps.mp3": "/static/media/128-Besharam Rang - Pathaan 128 Kbps.e5f114b60c29c1f2f2fe.mp3",
+    "static/media/128-Tumhare Hi Rahenge Hum - Stree 2 128 Kbps.mp3": "/static/media/128-Tumhare Hi Rahenge Hum - Stree 2 128 Kbps.e6af083829e448996159.mp3",
+    "static/media/Tumhare-Hi-Rahenge-Hum-From-Stree-2-Hindi-2024-20240827163857-500x500.jpg": "/static/media/Tumhare-Hi-Rahenge-Hum-From-Stree-2-Hindi-2024-20240827163857-500x500.1c5ba7c745541b4b0a41.jpg",
+    "index.html": "/index.html",
+    "main.3a95e01b.css.map": "/static/css/main.3a95e01b.css.map",
+    "main.a4dcbb3e.js.map": "/static/js/main.a4dcbb3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a95e01b.css",
+    "static/js/main.a4dcbb3e.js"
+  ]
+}
