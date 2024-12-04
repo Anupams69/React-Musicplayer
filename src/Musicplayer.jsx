@@ -103,9 +103,7 @@ let looping=(e)=>{
   audioRef.current.currentTime=0;
   audioRef.current.play()
 }
-let noloop=()=>{
-  setRepeet(!repeet)
-}
+console.log(setRepeet)
 
 
   return (
